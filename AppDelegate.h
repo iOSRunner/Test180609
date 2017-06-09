@@ -10,6 +10,7 @@
 //upload
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+//window
 @property (strong, nonatomic) UIWindow *window;
 
 
