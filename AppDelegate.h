@@ -14,5 +14,7 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @property (strong, nonatomic) UIWindow *window1;
+
+@property (strong, nonatomic) UIWindow *window2;
 @end
 
